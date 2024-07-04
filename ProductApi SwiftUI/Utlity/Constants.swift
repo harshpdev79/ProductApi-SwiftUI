@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct API {
+    static let products = "https://fakestoreapi.com/products"
+}
