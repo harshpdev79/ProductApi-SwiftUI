@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ProductView: View {
     var body: some View {
-        Text("Product View")
+        List {
+            Text("Product item1")
+        }
     }
 }
 
