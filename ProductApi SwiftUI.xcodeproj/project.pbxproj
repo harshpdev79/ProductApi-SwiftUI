@@ -17,6 +17,7 @@
 		64B1EDFA2C37486400869B87 /* Webservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B1EDF92C37486400869B87 /* Webservice.swift */; };
 		64B1EDFF2C3748E600869B87 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B1EDFE2C3748E600869B87 /* Product.swift */; };
 		64B1EE012C374C7E00869B87 /* ProductViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B1EE002C374C7E00869B87 /* ProductViewModel.swift */; };
+		64B1EE042C37586500869B87 /* Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 64B1EE032C37586500869B87 /* Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		64B1EDF92C37486400869B87 /* Webservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Webservice.swift; sourceTree = "<group>"; };
 		64B1EDFE2C3748E600869B87 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		64B1EE002C374C7E00869B87 /* ProductViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductViewModel.swift; sourceTree = "<group>"; };
+		64B1EE032C37586500869B87 /* Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		64B1EDDE2C3734FF00869B87 /* ProductApi SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				64B1EE022C37584600869B87 /* Screenshot */,
 				64B1EDF62C37480400869B87 /* Utlity */,
 				64B1EDF52C3747E700869B87 /* Webservice */,
 				64B1EDF42C3738B400869B87 /* Product */,
@@ -133,6 +136,14 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		64B1EE022C37584600869B87 /* Screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				64B1EE032C37586500869B87 /* Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png */,
+			);
+			path = Screenshot;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -193,6 +204,7 @@
 			files = (
 				64B1EDE72C37350000869B87 /* Preview Assets.xcassets in Resources */,
 				64B1EDE42C37350000869B87 /* Assets.xcassets in Resources */,
+				64B1EE042C37586500869B87 /* Simulator Screenshot - iPhone 15 Pro - 2024-07-05 at 03.46.08.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
