@@ -27,8 +27,8 @@ I'm a passionate iOS Developer with a knack for creating engaging and user-frien
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpdev79&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpdev79&layout=compact&theme=radical)
 
 ## 📱 Projects
 
@@ -36,6 +36,7 @@ I'm a passionate iOS Developer with a knack for creating engaging and user-frien
 ![Project1](https://user-images.githubusercontent.com/XXXXX/XXXXX.png)
 - **Description**: This project demonstrates how to create a product listing app using SwiftUI and an API. The app fetches data from a remote source and displays it in a user-friendly interface.
 - **Technologies Used**: SwiftUI, iOS
+- [App Screenshot](https://raw.githubusercontent.com/harshpdev79/ProductApi-SwiftUI/main/ProductApi%20SwiftUI/Screenshot/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-07-05%20at%2003.46.08.png)
 
 ### [Project Name 2](https://github.com/yourusername/project2)
 ![Project2](https://user-images.githubusercontent.com/XXXXX/XXXXX.png)
